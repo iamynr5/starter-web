@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <YNR> -- <twitter>
 
 # THANKS
 
@@ -13,3 +13,5 @@
 
     HTML5, CSS3, angular
     jQuery, Modernizr , AWS
+    STR na mass
+    YNR is always MAss
