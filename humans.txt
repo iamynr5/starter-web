@@ -5,6 +5,7 @@
 
     <name> -- <YNR is terrific IAMYNR5> -- <twitter>
               STR is awsorme
+	      CLoud Architect
 # THANKS
 
     <name>
@@ -15,4 +16,8 @@
     jQuery, Modernizr , AWS
     STR na mass
     YNR is always MAss
+<<<<<<< HEAD
     AWS Cloud Engineer 
+=======
+    I will be placed in good company with good CTC
+>>>>>>> ynr
