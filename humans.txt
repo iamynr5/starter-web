@@ -16,8 +16,5 @@
     jQuery, Modernizr , AWS
     STR na mass
     YNR is always MAss
-<<<<<<< HEAD
-    AWS Cloud Engineer 
-=======
     I will be placed in good company with good CTC
->>>>>>> ynr
+
